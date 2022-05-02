@@ -1,0 +1,11 @@
+[package]
+name = "tut"
+version = "0.1.0"
+authors = ["SAAD"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+colored = "2.0.0"
+open = "2.1.2"
